@@ -1,0 +1,38 @@
+
+Cosine Similarities (Queries to Documents):
+
+Ranked Cosine Similarities for Query: 'storm heart':
+Rank 1: Cosine similarity between Query: 'storm heart' and Document: 'Doc7.txt': 0.3135500009904304
+Rank 2: Cosine similarity between Query: 'storm heart' and Document: 'Doc6.txt': 0.051759468819658636
+Rank 3: Cosine similarity between Query: 'storm heart' and Document: 'Doc5.txt': 0.035410301691080476
+Rank 4: Cosine similarity between Query: 'storm heart' and Document: 'Doc4.txt': 0.0
+Rank 5: Cosine similarity between Query: 'storm heart' and Document: 'Doc10.txt': 0.0
+Rank 6: Cosine similarity between Query: 'storm heart' and Document: 'Doc3.txt': 0.0
+Rank 7: Cosine similarity between Query: 'storm heart' and Document: 'Doc2.txt': 0.0
+Rank 8: Cosine similarity between Query: 'storm heart' and Document: 'Doc8.txt': 0.0
+Rank 9: Cosine similarity between Query: 'storm heart' and Document: 'Doc1.txt': 0.0
+Rank 10: Cosine similarity between Query: 'storm heart' and Document: 'Doc9.txt': 0.0
+
+Ranked Cosine Similarities for Query: 'robert':
+Rank 1: Cosine similarity between Query: 'robert' and Document: 'Doc1.txt': 0.1680379058002081
+Rank 2: Cosine similarity between Query: 'robert' and Document: 'Doc4.txt': 0.0
+Rank 3: Cosine similarity between Query: 'robert' and Document: 'Doc10.txt': 0.0
+Rank 4: Cosine similarity between Query: 'robert' and Document: 'Doc5.txt': 0.0
+Rank 5: Cosine similarity between Query: 'robert' and Document: 'Doc3.txt': 0.0
+Rank 6: Cosine similarity between Query: 'robert' and Document: 'Doc2.txt': 0.0
+Rank 7: Cosine similarity between Query: 'robert' and Document: 'Doc7.txt': 0.0
+Rank 8: Cosine similarity between Query: 'robert' and Document: 'Doc6.txt': 0.0
+Rank 9: Cosine similarity between Query: 'robert' and Document: 'Doc8.txt': 0.0
+Rank 10: Cosine similarity between Query: 'robert' and Document: 'Doc9.txt': 0.0
+
+Ranked Cosine Similarities for Query: 'sun':
+Rank 1: Cosine similarity between Query: 'sun' and Document: 'Doc2.txt': 0.11106781759579719
+Rank 2: Cosine similarity between Query: 'sun' and Document: 'Doc5.txt': 0.10215720068264465
+Rank 3: Cosine similarity between Query: 'sun' and Document: 'Doc4.txt': 0.0
+Rank 4: Cosine similarity between Query: 'sun' and Document: 'Doc10.txt': 0.0
+Rank 5: Cosine similarity between Query: 'sun' and Document: 'Doc3.txt': 0.0
+Rank 6: Cosine similarity between Query: 'sun' and Document: 'Doc7.txt': 0.0
+Rank 7: Cosine similarity between Query: 'sun' and Document: 'Doc6.txt': 0.0
+Rank 8: Cosine similarity between Query: 'sun' and Document: 'Doc8.txt': 0.0
+Rank 9: Cosine similarity between Query: 'sun' and Document: 'Doc1.txt': 0.0
+Rank 10: Cosine similarity between Query: 'sun' and Document: 'Doc9.txt': 0.0
